@@ -1,6 +1,17 @@
 # Biblioteca
-Biblioteca_JAVA
+
+Biblioteca Java 
+
+ Exemplos retirados do Livro *Desbravando Java e orientação a objetos- Rodrigo Turini* .
+ 
+# Alterações  
+ 
+- Com a adiçao de codigos,comentarios e classes feitas por mim.
 
 
+# Prazos 
 
-Testando GIt com no GIT HUB ... teste  ok 22/06/2016 
+ - Criação de Menu, Organização das classes dia 13/08/2016 
+ 
+ 
+ 
