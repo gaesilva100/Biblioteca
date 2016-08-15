@@ -7,7 +7,9 @@
 - Com a adição de códigos, comentários e classes feitas por mim.
 
 
-# Prazos 
+# Base de conhecimento
 
- - Criação de Menu, Organização das classes dia 13/08/2016 
+- Curso clarify - 40 Horas [Programador Java] (http://clarify.com.br/curso-programador-java)
+
+ 
  
